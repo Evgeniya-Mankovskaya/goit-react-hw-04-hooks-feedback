@@ -1,0 +1,11 @@
+.buttonList {
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+
+.buttonItem {
+  margin-left: 10px;
+  border: 1px solid black;
+  background-color: white;
+}
